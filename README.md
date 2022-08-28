@@ -27,3 +27,5 @@ Average results (rounded to closest integer)
 | Local Var (Re-declared) | 262  |
 
 ![Result bar graph](img/graph.png)
+
+Disclaimer: this experiment is based on the work of [Jackson Dunstan](https://www.jacksondunstan.com/articles/2968), to which I only added the fourth option
