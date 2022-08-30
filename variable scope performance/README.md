@@ -26,6 +26,6 @@ Average results (rounded to closest integer)
 | Local Var               | 267  |
 | Local Var (Re-declared) | 262  |
 
-![Result bar graph](img/graph.png)
+![Result bar graph](graph.png)
 
 Disclaimer: this experiment is based on the work of [Jackson Dunstan](https://www.jacksondunstan.com/articles/2968), to which I only added the fourth option that I think better resembles how variables woud work in the Update loop of the game
